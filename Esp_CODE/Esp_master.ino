@@ -7,8 +7,8 @@
 
 // ================= WIFI =================
 
-const char* ssid = "XTRA NET";
-const char* password = "9497039254";
+const char* ssid = "YOUR WIFI";
+const char* password = "PASSWORD";
 
 // ================= TELEGRAM =================
 
