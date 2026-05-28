@@ -14,7 +14,7 @@ const char* password = "PASSWORD";
 
 #define BOTtoken "BOTTOKEN"
 
-#define CHAT_ID "6617071258"
+#define CHAT_ID "CHATID"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
