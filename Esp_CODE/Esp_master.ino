@@ -12,7 +12,7 @@ const char* password = "PASSWORD";
 
 // ================= TELEGRAM =================
 
-#define BOTtoken "8825896552:AAEamRaiCrvnqOp_k6uf0pYr4GGrFi_VLfk"
+#define BOTtoken "BOTTOKEN"
 
 #define CHAT_ID "6617071258"
 
